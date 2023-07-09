@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**GabrielBurack/GabrielBurack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Burack
 
-Here are some ideas to get you started:
+- Estou cursando Engenharia da computação na UEPG
+- Estou aprendendo desenvolvimento Front end
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+gabrielburackrosa08@gmail.com 📧
+
+@gabrielbr_04 
+
+![](https://tenor.com/pt-BR/view/im-here-cristiano-ronaldo-mad-gif-10595763)
