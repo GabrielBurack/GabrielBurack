@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Boas vindas ao meu perfil 🖤<br><br>Meu nome é Gabriel Burack<br><br>- Estou cursando Engenharia da computação na UEPG<br>- Estou aprendendo desenvolvimento Front end<br>- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos<br><br>### Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>![](https://media.tenor.com/e4xbxobFyXsAAAAC/im-here-cristiano-ronaldo.gif)
+### Boas vindos ao meu perfil 🖤<br><br>Meu nome é Gabriel Burack<br><br>- Estou cursando Engenharia da computação na UEPG<br>- Estou aprendendo desenvolvimento Front end<br>- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos<br><br>### Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>![](https://media.tenor.com/e4xbxobFyXsAAAAC/im-here-cristiano-ronaldo.gif)
 
 
 ## 🌐 Socials:
