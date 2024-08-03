@@ -26,4 +26,4 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielbr_04) 
-<br>### Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>
+<br>Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>
