@@ -1,10 +1,3 @@
-# 💫 About Me:
-### Boas vindas ao meu perfil 🖤<br><br>Meu nome é Gabriel Burack<br><br>- Estou cursando Engenharia da computação na UEPG<br>- Estou aprendendo desenvolvimento Front end<br>- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos<br><br>### Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielbr_04) 
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielBurack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -31,3 +24,6 @@
 
 ###
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielbr_04) 
+<br>### Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>
