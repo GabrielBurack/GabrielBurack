@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia de computação (3/5) - UEPG</p>
+<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia de computação (3/5) - UEPG<br>- Estou aprendendo React :atom_symbol:</p>
 
 ###
 
