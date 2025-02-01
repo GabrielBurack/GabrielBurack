@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia de computação (4/5) - UEPG<br>- Estou aprendendo Python 🐍:</p>
+<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia da computação (4/5) - UEPG <br>- Atualmente estou estudando Machine Learning e Data Science!</p>
 
 ###
 
@@ -24,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
@@ -35,6 +39,16 @@
 
 ###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielbr_04) 
-<br>Você pode entrar em contato comigo 📫<br><br>gabrielburackrosa08@gmail.com 📧<br><br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrielburack/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabrielbr_04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="gabrielburackrosa08@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
