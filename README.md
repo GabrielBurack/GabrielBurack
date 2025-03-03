@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia da computação (4/5) - UEPG <br>- Atualmente estou estudando Machine Learning e Data Science!</p>
+<p align="left">Olá ! Eu sou Gabriel Burack Rosa<br>- Engenharia da computação (4/5) - UEPG</p>
 
 ###
 
